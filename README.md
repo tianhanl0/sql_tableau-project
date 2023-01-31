@@ -54,3 +54,6 @@
 · created linkage filter in dashboard between vaccination percentage (maps) and vaccination and death rate (multi-line chart), built a perceptual intuition
 
 <img width="977" alt="截屏2023-01-30 20 27 12" src="https://user-images.githubusercontent.com/112505253/215635769-984b872b-15d1-4f62-bcd9-c9ee9340c45e.png">
+
+<img width="992" alt="截屏2023-01-30 22 05 52" src="https://user-images.githubusercontent.com/112505253/215652724-2f90de04-082d-4511-ba60-030dd495ebc8.png">
+
