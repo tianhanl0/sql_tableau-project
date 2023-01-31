@@ -19,7 +19,7 @@
 
 ### Tableau part
 
-· Linked tables/views in MySQL Workbench with Tableau Desktop, adjusted visual chart by the types of variables in each tables/views
+· linked tables/views in MySQL Workbench with Tableau Desktop, adjusted visual chart by the types of variables in each tables/views
 
 · used text table to get a sense of total cases, total deaths and total death percentage worldwide
 
