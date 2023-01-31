@@ -49,7 +49,7 @@
 
 · assigned treemap to analyze total vaccinated count throughout continent
 
-· utilized multi-line chart to comprehend the relationship between vaccination and death rate for indivisual countries selected
+· utilized multi-line chart to comprehend the relationship between vaccination and death rate for individual countries selected
 
 · created linkage filter in dashboard between vaccination percentage (maps) and vaccination and death rate (multi-line chart), built a perceptual intuition
 
