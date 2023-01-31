@@ -29,6 +29,7 @@
 
 · utilized line chart to comprehend increasement of population infected trend percent through time for specific countries
 
+<img width="988" alt="截屏2023-01-30 20 20 35" src="https://user-images.githubusercontent.com/112505253/215634793-29461058-438b-4f50-b6b0-6d8267405c61.png">
 
 ## Covid vaccination and death report 
 
@@ -53,12 +54,3 @@
 · created linkage filter in dashboard between vaccination percentage (maps) and vaccination and death rate (multi-line chart), built a perceptual intuition
 
 <img width="976" alt="截屏2023-01-30 20 19 26" src="https://user-images.githubusercontent.com/112505253/215634681-a100dd30-b873-4f95-a42e-ff93d5aaa337.png">
-<img width="976" alt="截屏2023-01-30 20 19 26" src="https://user-images.githubusercontent.com/112505253/215634681-a100dd30-b873-4f95-a42e-ff93d5aaa337.png">
-<img width="976" alt="截屏2023-01-30 20 19 26" src="https://user-images.githubusercontent.com/112505253/215634681-a100dd30-b873-4f95-a42e-ff93d5aaa337.png">
-
-
-· 
-
-· 
-
-· 
